@@ -1,0 +1,2 @@
+# pylibblkid
+Python libblkid wrapper
